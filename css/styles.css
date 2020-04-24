@@ -1,0 +1,103 @@
+body{
+    color: rgb(97, 94, 94);
+    margin: 0;
+    text-align: center;
+ font-family: 'Amatic SC', cursive;
+}
+
+h1{
+    color: rgb(255, 255, 255), 255, 255);
+    font-size: 6.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Gochi Hand', cursive;
+}
+
+h2{
+    color: rgb(240, 63, 137);
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3{
+    color: rgb(105, 33, 67);
+    font-family: 'Lilita One', cursive;
+}
+.lead{
+    color:  rgb(240, 63, 137);
+    font-size: 2rem;
+}
+
+p{
+    margin-block-start: 1px;
+}
+
+hr{
+    border: dotted rgb(167, 179, 179) 6px;
+    border-bottom: none;
+    width: 6%;
+    margin: 100px auto;
+}
+
+a{
+    color:  rgb(240, 63, 137);
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+
+
+.contenedorMedio{
+    margin: 100px 0;
+}
+
+.contenedorInferior{
+    background-color: rgb(252, 215, 233);
+    padding: 40px 0 20px;
+}
+
+.perros{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+.mensajeContacto{
+    width: 90%;
+    margin: 40px auto 60px;
+    color: rgb(105, 33, 67);
+    font-family: 'Lilita One', cursive;
+}
+
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+
+.codigoImg{
+    width: 25%;
+    float: left;
+    margin: 30px;
+}
+
+.controlImg{
+    width: 25%;
+    float: right;
+    margin: 30px;
+}
+
+
+    
